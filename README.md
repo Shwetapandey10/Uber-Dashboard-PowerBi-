@@ -1,12 +1,12 @@
 # 🚖 Uber Data Analysis Dashboard
 
-## 📌 Overview
+## Overview
 This project is an interactive **Uber Dashboard** designed to analyze ride data and identify trends related to **trip volume, peak hours, locations, and revenue**.  
 The dashboard provides clear insights to support **data-driven decision making**.
 
 ---
 
-## 🎯 Objective
+## Objective
 - Analyze Uber trip data
 - Identify peak demand hours and high-traffic locations
 - Track ride trends and key performance metrics
@@ -14,21 +14,21 @@ The dashboard provides clear insights to support **data-driven decision making**
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI
 - Microsoft Excel
 - Python (Pandas, NumPy) *(for data cleaning, if applicable)*
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Uber Trip Dataset
 - Source: Public Dataset / Kaggle
 - Contains trip date, time, location, distance, and fare details
 
 ---
 
-## 📊 Dashboard Highlights
+## Dashboard Highlights
 - Total Trips KPI
 - Revenue Analysis
 - Peak Hours & Demand Trends
@@ -37,7 +37,7 @@ The dashboard provides clear insights to support **data-driven decision making**
 
 ---
 
-## 🔍 Process
+## Process
 1. Data collection
 2. Data cleaning and preprocessing
 3. Exploratory Data Analysis (EDA)
@@ -46,26 +46,21 @@ The dashboard provides clear insights to support **data-driven decision making**
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Ride demand is highest during evening hours
 - Weekends have higher trip volumes
 - Certain locations generate maximum revenue
 
 ---
 
-## ▶️ How to Use
+## How to Use
 1. Download the `.pbix` file
 2. Open it in Power BI
 3. Use slicers to explore the dashboard
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This dashboard helps understand Uber ride patterns and can assist in **operational planning and business optimization**.
 
 ---
-
-## 👩‍💻 Author
-Shweta Pandey  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-link
